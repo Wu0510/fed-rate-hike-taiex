@@ -1,5 +1,11 @@
 # 美國升息，台股與新台幣怎麼動？
 
+## 🔗 互動儀表板
+
+**線上版：https://wu0510.github.io/fed-rate-hike-taiex/**（由 `python scripts/build_dashboard.py` 產生 `docs/index.html`）
+
+![儀表板截圖](docs/img/dashboard.png)
+
 ## 問題
 Fed 升息時，台股報酬與新台幣匯率是否有系統性變化？理專面對客戶「要升息了，股票要不要減碼？」時，數據怎麼說？
 
