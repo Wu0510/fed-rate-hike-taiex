@@ -1,0 +1,4 @@
+data/raw/TWII_monthly.csv
+data/raw/kaggle/
+.ipynb_checkpoints/
+__pycache__/
